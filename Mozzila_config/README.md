@@ -1,4 +1,4 @@
-https://ssl-config.mozilla.org/#server=nginx&version=1.18&config=intermediate&openssl=1.1.0k&guideline=5.6
+**https://ssl-config.mozilla.org/**
 
 ```
 # generated 2020-10-28, Mozilla Guideline v5.6, nginx 1.18, OpenSSL 1.1.0k, intermediate configuration
